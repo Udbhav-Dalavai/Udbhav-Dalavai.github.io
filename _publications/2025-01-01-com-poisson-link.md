@@ -1,7 +1,5 @@
 ---
 title: "Parametric Link Function for COM-Poisson Regression Model"
-collection: publications
-category: manuscripts
 permalink: /publication/2025-01-01-com-poisson-link
 ---
 
