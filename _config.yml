@@ -25,7 +25,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :   # add your Google Scholar URL here
+  googlescholar    : "https://scholar.google.com/citations?user=w73BGL4AAAAJ&hl=en"
   inspire-hep      :
   impactstory      :
   orcid            :   # add your ORCID URL here
