@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in Statistics at [Birkbeck, University of London](https://www.bbk.ac.uk/), supervised by [Dr. Swati Chandna](https://www.bbk.ac.uk/our-staff/9165866/swati-chandna). My research is on statistical methods for network data — specifically likelihood-based approaches for link prediction and latent-space models.
+I am a second-year PhD student in Statistics at [Birkbeck, University of London](https://www.bbk.ac.uk/), supervised by [Dr. Swati Chandna](https://www.bbk.ac.uk/our-staff/9165866/swati-chandna). My research is on statistical methods for network data specifically likelihood-based approaches for link prediction.
 
-**Research interests:** network models (RDPG, SBM), Bayesian inference, Pólya-Gamma augmentation, Gaussian processes, uncertainty quantification.
+**Research interests:** Latent Space Models, Bayesian inference, uncertainty quantification.
 
 ## News
 
@@ -20,13 +20,6 @@ I am a second-year PhD student in Statistics at [Birkbeck, University of London]
 ## Education
 
 - **PhD Statistics**, Birkbeck, University of London (Oct 2024 – present)
-  *Supervisor: Dr. Swati Chandna*
 - **BS-MS Mathematics**, IISER Tirupati (2018–2023)
-- **Certificate in Financial Engineering**, IIQF Mumbai (2023–2024)
-
 ## Contact
-
-Department of Economics, Mathematics and Statistics  
-Birkbeck, University of London  
-Malet Street, London WC1E 7HX  
 u.dalavai@bbk.ac.uk
