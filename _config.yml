@@ -7,9 +7,9 @@ title                    : "Udbhav Dalavai"
 title_separator          : "-"
 name                     : &name "Udbhav Dalavai"
 description              : &description "PhD Researcher in Statistics, Birkbeck, University of London. Working on network models, Bayesian inference, and uncertainty quantification."
-url                      : https://YOURUSERNAME.github.io  # ← replace YOURUSERNAME with your GitHub handle
+url                      : https://Udbhav-Dalavai.github.io
 baseurl                  : ""
-repository               : "YOURUSERNAME/YOURUSERNAME.github.io"  # ← replace both
+repository               : "Udbhav-Dalavai/Udbhav-Dalavai.github.io"
 
 # Site Author
 author:
@@ -40,7 +40,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :   # ← your GitHub username
+  github           : "Udbhav-Dalavai"
   kaggle           :
   stackoverflow    :
 
