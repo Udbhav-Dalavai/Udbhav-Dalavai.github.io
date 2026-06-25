@@ -1,0 +1,177 @@
+{
+  "basics": {
+    "name": "Udbhav Dalavai",
+    "email": "u.dalavai@bbk.ac.uk",
+    "phone": "+44 7887 133803",
+    "website": "https://YOURUSERNAME.github.io",
+    "summary": "PhD Researcher in Statistics at Birkbeck, University of London. Working on likelihood-based methods for network data, Bayesian inference, and uncertainty quantification.",
+    "location": {
+      "address": "Malet Street",
+      "postalCode": "WC1E 7HX",
+      "city": "London",
+      "countryCode": "GB",
+      "region": "England"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "udbhav-dalavai-55689623a",
+        "url": "https://www.linkedin.com/in/udbhav-dalavai-55689623a/"
+      },
+      {
+        "network": "GitHub",
+        "username": "YOURUSERNAME",
+        "url": "https://github.com/YOURUSERNAME"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Birkbeck, University of London",
+      "position": "PhD Researcher",
+      "website": "https://www.bbk.ac.uk/",
+      "startDate": "2024-10",
+      "endDate": "",
+      "summary": "Link prediction in networks using nonlinear latent-space models. Supervisor: Dr. Swati Chandna.",
+      "highlights": []
+    },
+    {
+      "company": "Birkbeck, University of London",
+      "position": "Graduate Teaching Assistant — Principles of Programming (Python)",
+      "website": "https://www.bbk.ac.uk/",
+      "startDate": "2024-10",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "IISER Bhopal",
+      "position": "Junior Research Fellow",
+      "website": "https://www.iiserb.ac.in/",
+      "startDate": "2024-01",
+      "endDate": "2024-08",
+      "summary": "Bayesian deep learning and uncertainty quantification. Supervisor: Dr. Vinod Kurmi.",
+      "highlights": []
+    },
+    {
+      "company": "IIT Tirupati",
+      "position": "Research Intern & MS Thesis Student",
+      "website": "https://www.iittp.ac.in/",
+      "startDate": "2022-07",
+      "endDate": "2023-12",
+      "summary": "Regression models for count data. Supervisor: Dr. Ishapathik Das.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Birkbeck, University of London",
+      "area": "Statistics",
+      "studyType": "PhD",
+      "startDate": "2024-10",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "IISER Tirupati",
+      "area": "Mathematics",
+      "studyType": "BS-MS",
+      "startDate": "2018-08",
+      "endDate": "2023-07",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "IIQF Mumbai",
+      "area": "Financial Engineering",
+      "studyType": "Certificate",
+      "startDate": "2023-07",
+      "endDate": "2024-06",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "R", "LaTeX", "SQL"]
+    },
+    {
+      "name": "Statistics & ML",
+      "level": "",
+      "keywords": ["Bayesian inference", "MCMC", "Network models (RDPG/SBM)", "Spectral methods", "Gaussian processes", "Uncertainty quantification"]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": ["Git", "Linux", "HPC/cluster computing"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "Likelihood-Based Methods for Partially Observed Networks",
+      "publisher": "Manuscript (submission-ready, 2026)",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "With Swati Chandna. MLE for RDPG under partial observation with out-of-sample extension."
+    },
+    {
+      "name": "Parametric Link Function for COM-Poisson Regression Model",
+      "publisher": "Journal of Applied Statistics (under review)",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "With Ishapathik Das and Suneel Babu Chatla."
+    },
+    {
+      "name": "Quantifying Uncertainty in Neural Networks through Residuals",
+      "publisher": "CIKM 2024",
+      "releaseDate": "2024-10-21",
+      "website": "https://doi.org/10.1145/3627673.3679983",
+      "summary": "With R. S. Thakur, R. R. Dwivedi, and V. K. Kurmi."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Likelihood-Based Methods for Partially Observed Networks and Out-of-Sample Extension",
+      "event": "CMStatistics 2025 (Invited Session)",
+      "date": "2025-12-06",
+      "location": "London, UK",
+      "description": ""
+    },
+    {
+      "name": "Likelihood-Based Methods for Partially Observed Networks",
+      "event": "Royal Statistical Society Annual Conference 2025",
+      "date": "2025-09-01",
+      "location": "Edinburgh, UK",
+      "description": "Rapid-fire talk and poster."
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Principles of Programming (Python)",
+      "institution": "Birkbeck, University of London",
+      "date": "2024-10-01",
+      "role": "Graduate Teaching Assistant",
+      "description": "Undergraduate-level Python programming course."
+    }
+  ],
+  "awards": [
+    {
+      "title": "CSIR-NET 2022",
+      "date": "2022",
+      "awarder": "CSIR",
+      "summary": "All-India Rank 133 — Assistant Professor/Lecturership eligibility."
+    },
+    {
+      "title": "JEE Advanced 2018",
+      "date": "2018",
+      "awarder": "IIT JEE",
+      "summary": "All-India Rank 5814. IISER All India Rank 142."
+    }
+  ]
+}
