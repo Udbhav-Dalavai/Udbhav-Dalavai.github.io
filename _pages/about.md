@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in Statistics at [Birkbeck, University of London](https://www.bbk.ac.uk/), supervised by [Dr. Swati Chandna](https://sites.google.com/view/swati-chandna). My research is on statistical methods for network data — specifically likelihood-based approaches for link prediction and latent-space models.
+I am a second-year PhD student in Statistics at [Birkbeck, University of London](https://www.bbk.ac.uk/), supervised by [Dr. Swati Chandna](https://www.bbk.ac.uk/our-staff/9165866/swati-chandna). My research is on statistical methods for network data — specifically likelihood-based approaches for link prediction and latent-space models.
 
 **Research interests:** network models (RDPG, SBM), Bayesian inference, Pólya-Gamma augmentation, Gaussian processes, uncertainty quantification.
 
