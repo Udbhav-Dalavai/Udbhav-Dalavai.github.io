@@ -11,7 +11,7 @@ I am a second-year PhD student in Statistics at [Birkbeck, University of London]
 
 **Research interests:** Latent Space Models, Bayesian inference, uncertainty quantification.
 
-Outside research, I play badminton for [Clapham Warriors](https://www.clapha.com/) and enjoy urban speed skating — with 250+ miles covered across London — and swimming.
+Outside research, I play badminton for Clapham Warriors and enjoy urban speed skating — with 250+ miles covered across London — and swimming.
 
 ## News
 
