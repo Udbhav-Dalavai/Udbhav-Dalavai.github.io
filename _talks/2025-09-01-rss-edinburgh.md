@@ -8,4 +8,4 @@ date: 2025-09-01
 location: "Edinburgh, UK"
 ---
 
-Rapid-fire talk and poster on likelihood-based methods for partially observed networks and out-of-sample extension. Joint work with Dr. Swati Chandna.
+Rapid-fire talk and poster on likelihood-based methods for partially observed networks.
