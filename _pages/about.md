@@ -26,4 +26,4 @@ Outside research, I play badminton for Clapham Warriors and enjoy urban speed sk
 - **PhD Statistics**, Birkbeck, University of London (Oct 2024 – present)
 - **BS-MS Mathematics**, IISER Tirupati (2018–2023)
 ## Contact
-u.dalavai@bbk.ac.uk
+u.dalavai [at] bbk.ac.uk
