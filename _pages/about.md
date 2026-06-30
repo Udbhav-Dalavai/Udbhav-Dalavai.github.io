@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year PhD student in Statistics at [Birkbeck, University of London](https://www.bbk.ac.uk/), supervised by [Dr. Swati Chandna](https://www.bbk.ac.uk/our-staff/9165866/swati-chandna). My research is on statistical methods for network data, specifically likelihood based spectral methods for link prediction.
 
-**Research interests:** Latent Space Models, Missing data in networks, High-dimensional likelihood-based inference, Bayesian inference.
+**Research interests:** Latent Space Models, Missing data in networks, High-dimensional likelihood inference, Bayesian inference.
 
 Before starting my PhD, I was a BS-MS student with mathematics major at [IISER Tirupati](https://www.iisertirupati.ac.in/), where I completed my MS thesis with [Dr. Ishapathik Das](https://sites.google.com/iittp.ac.in/ishapathik/home) at IIT Tirupati on Parametric links in Bayesian GLMs and intractable likelihoods. I then worked as a Project Associate at [IISER Bhopal](https://www.iiserb.ac.in/) in the [VisDom Lab](https://visdomlab.github.io/) with [Dr. Vinod Kurmi](https://vinodkkurmi.github.io/).
 
