@@ -108,7 +108,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "https://udbhav-dalavai.github.io/images/profile.png"
+og_image                 : "/images/profile.png"
 og_description           : "PhD Researcher in Statistics at Birkbeck, University of London. Working on latent space models, Bayesian inference, and network data."
 social:
   type                   : "Person"
