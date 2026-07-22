@@ -11,7 +11,7 @@ I am a second-year PhD student in Statistics at [Birkbeck, University of London]
 
 **Research interests:** Latent Space Models, Missing data in networks, Likelihood-based spectral inference, Computational statistics, Bayesian inference.
 
-Before starting my PhD, I was a BS-MS student with mathematics major at [IISER Tirupati](https://www.iisertirupati.ac.in/), where I completed my MS thesis with [Dr. Ishapathik Das](https://sites.google.com/iittp.ac.in/ishapathik/home) at IIT Tirupati on Parametric links in Bayesian GLMs and intractable likelihoods. I then worked as a Project Associate at [IISER Bhopal](https://www.iiserb.ac.in/) in the [VisDom Lab](https://visdomlab.github.io/) with [Dr. Vinod Kurmi](https://vinodkkurmi.github.io/).
+Before starting my PhD, I was a BS-MS student with mathematics major at [IISER Tirupati](https://www.iisertirupati.ac.in/), where I completed my MS thesis with [Dr. Ishapathik Das](https://sites.google.com/iittp.ac.in/ishapathik/home) at IIT Tirupati on Parametric links in Bayesian GLMs and intractable likelihoods with application to count data. I then worked as a Project Associate at [IISER Bhopal](https://www.iiserb.ac.in/) in the [VisDom Lab](https://visdomlab.github.io/) with [Dr. Vinod Kurmi](https://vinodkkurmi.github.io/).
 
 Outside research, I play badminton for Clapham Warriors and enjoy urban speed skating — with 250+ miles covered across London — and swimming.
 
