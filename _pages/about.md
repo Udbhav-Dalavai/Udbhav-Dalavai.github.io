@@ -17,6 +17,7 @@ Outside research, I play badminton for Clapham Warriors and enjoy urban speed sk
 
 ## News
 
+- **Jul 2026** — Paper submitted: *Bayesian COM–Poisson Regression with a Right-Tail Parametric Link for Count Data* (under review).
 - **Dec 2025** — Invited talk at [CMStatistics 2025](http://www.cmstatistics.org/) on likelihood-based methods for partially observed networks.
 - **Sep 2025** — Rapid-fire talk and poster at the [Royal Statistical Society Annual Conference](https://rss.org.uk/), Edinburgh.
 - **Oct 2024** — Paper published at [CIKM 2024](https://dl.acm.org/doi/10.1145/3627673.3679983): *Quantifying Uncertainty in Neural Networks through Residuals*.
