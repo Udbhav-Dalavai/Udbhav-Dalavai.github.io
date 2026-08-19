@@ -3,7 +3,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "PhD Researcher in Statistics"
+title                    : "Udbhav Dalavai"
 title_separator          : "-"
 name                     : &name "Udbhav Dalavai"
 description              : &description "PhD Researcher in Statistics, Birkbeck, University of London. Working on network models, Bayesian inference, and uncertainty quantification."
