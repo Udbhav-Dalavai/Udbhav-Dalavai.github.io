@@ -1,8 +1,0 @@
----
-title: "Likelihood-Based Methods for Partially Observed Networks"
-collection: publications
-category: manuscripts
-permalink: /publication/2026-01-01-mle-rdpg
----
-
-**Udbhav Dalavai**, Swati Chandna. Likelihood-based methods for partially observed networks.
