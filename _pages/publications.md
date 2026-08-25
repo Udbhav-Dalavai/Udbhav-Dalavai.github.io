@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+<style>.post-header { display: none; }</style>
+
 <div class="publications">
 
 <h2 style="color: var(--global-text-color);">Journal Articles &amp; Preprints</h2>
