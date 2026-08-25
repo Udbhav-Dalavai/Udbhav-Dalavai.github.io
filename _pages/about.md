@@ -33,3 +33,27 @@ Outside research, I play badminton and enjoy urban speed skating — with 250+ m
 
 - **PhD Statistics**, Birkbeck, University of London (Oct 2024 – present)
 - **BS-MS Mathematics**, IISER Tirupati (2018–2023)
+
+<div id="publications" class="publications" style="margin-top: 2.5rem;">
+
+<h2 style="color: var(--global-text-color);">Publications</h2>
+
+<h3 style="color: var(--global-text-color);">Journal Articles &amp; Preprints</h3>
+
+{% bibliography --query @article %}
+
+<h3 style="color: var(--global-text-color);">Conference Papers</h3>
+
+{% bibliography --query @inproceedings %}
+
+</div>
+
+<div id="talks" style="margin-top: 2.5rem;">
+
+<h2 style="color: var(--global-text-color);">Talks</h2>
+
+<p><strong>Invited Talk</strong> — <em>Likelihood-Based Methods for Partially Observed Networks and Out-of-Sample Extension</em>, CMStatistics 2025 (Invited Session), London, UK. December 2025.</p>
+
+<p><strong>Rapid-Fire Talk &amp; Poster</strong> — <em>Likelihood-Based Methods for Partially Observed Networks</em>, Royal Statistical Society Annual Conference, Edinburgh, UK. September 2025.</p>
+
+</div>

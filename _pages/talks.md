@@ -3,8 +3,7 @@ layout: page
 title: talks
 permalink: /talks/
 description:
-nav: true
-nav_order: 3
+nav: false
 ---
 
 **Invited Talk** — *Likelihood-Based Methods for Partially Observed Networks and Out-of-Sample Extension*, CMStatistics 2025 (Invited Session), London, UK. December 2025.
