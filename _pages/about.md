@@ -33,6 +33,7 @@ Outside research, I play badminton and enjoy urban speed skating — with 250+ m
 - **BS-MS Mathematics**, IISER Tirupati (2018–2023)
 
 <div style="margin-top: 2.5rem;">
+<h2 style="color: var(--global-text-color);">News</h2>
 {% include news.liquid %}
 </div>
 
