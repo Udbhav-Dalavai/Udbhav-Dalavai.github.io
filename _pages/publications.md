@@ -9,11 +9,11 @@ nav_order: 2
 
 <div class="publications">
 
-### Journal Articles & Preprints
+<h2 class="bibliography">Journal Articles &amp; Preprints</h2>
 
 {% bibliography --query @article %}
 
-### Conference Papers
+<h2 class="bibliography">Conference Papers</h2>
 
 {% bibliography --query @inproceedings %}
 
